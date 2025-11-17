@@ -1,7 +1,6 @@
 # sharksec
 🦈 We focus on 网络安全技术分享、红蓝攻防实战、漏洞分析复盘​
 
-🌱 We also cover 云安全趋势、DevSecOps 实践、区块链安全研究​
 
 📚 日常推送：技术干货、工具教程、行业动态、实战案例​
 
